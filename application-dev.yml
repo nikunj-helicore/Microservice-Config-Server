@@ -1,6 +1,4 @@
 spring: 
-  application:
-    name: Congig-Dev
   eureka:
     client:
       fetch-registry: true
